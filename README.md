@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+KIM MYUNGHYUN
+김명현
 <!--
 **kim080120/kim080120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
